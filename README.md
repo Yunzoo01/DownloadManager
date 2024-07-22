@@ -14,6 +14,11 @@
 - Development IDE: Eclipse
 - Operating System: Developed and tested on Windows 10
 
+## 🌻Flow Chart
+![OOP_Yunju_0007](https://github.com/user-attachments/assets/09809858-157b-45e5-ac34-3e65c546c163)
+![OOP_Yunju_0008](https://github.com/user-attachments/assets/96f91dd3-d727-4037-b2d9-7d5c3098cbca)
+
+
 ## 🌻Application Screenshot
 ### ▪️ Main Interface
 ![image](https://github.com/Yunzoo01/DownloadManager/assets/116542699/3f73eb4d-5a3c-4ea8-a655-e04d81a24a57)
